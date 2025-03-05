@@ -2,3 +2,8 @@ name = "nameless-union-c06e"
 compatibility_date = "2025-03-05"
 
 main = "src/index.js"  # or "src/index.ts" if using TypeScript
+
+[[d1_databases]]
+binding = "DATABASE"          
+database_name = "<dbname>"  # The name of your D1 database
+database_id = "<dbid>"  # Replace with your actual D1 database ID
