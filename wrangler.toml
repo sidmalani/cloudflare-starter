@@ -1,0 +1,4 @@
+name = "nameless-union-c06e"
+compatibility_date = "2025-03-05"
+
+main = "src/index.js"  # or "src/index.ts" if using TypeScript
